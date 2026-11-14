@@ -1,0 +1,5 @@
+Python: 3.13.16
+PyTorch: 2.14.1+cu130
+Torchvision: 0.29.1+cu130
+CUDA: 13.0
+GPU: Tesla T4
